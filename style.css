@@ -10,10 +10,21 @@ h3 {
   color: rgb(255, 0, 255); /* 讓所有 class 為 highlight 的文字都變紅色 */
 }
 
+h4 {
+  color: rgb(17, 0, 255); /* 讓所有 class 為 highlight 的文字都變紅色 */
+}
+
+header h4 {
+  font-size: 36px;
+}
 #main-header {
   background-color: rgb(0, 255, 221); /* 只有這個唯一的標頭會變藍色背景 */
 }
 
 #main-header {
   color: rgb(255, 0, 255); /* 讓所有 class 為 highlight 的文字都變紅色 */
+}
+
+body {
+  font-family: "Microsoft JhengHei", sans-serif;
 }
